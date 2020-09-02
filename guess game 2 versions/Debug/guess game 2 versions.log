@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Mohammed Hany\Desktop\Projects\guess game 2 versions\guess game 2 versions\main.c(19,20): warning C4013: 'rand' undefined; assuming extern returning int
+  guess game 2 versions.vcxproj -> C:\Users\Mohammed Hany\Desktop\Projects\guess game 2 versions\Debug\guess game 2 versions.exe
